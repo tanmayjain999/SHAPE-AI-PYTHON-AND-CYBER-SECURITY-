@@ -5,7 +5,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 The instructor during the session was Dipyan Goshal (Ex intern at amazon ). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/watch?v=yZeJTQXvA-I&list=PL7zl8TDRnbuljbDX-DamOSa2h97499sP4"> 
+<a href="https://www.youtube.com/watch?v=yZeJTQXvA-I&list=PL7zl8TDRnbuljbDX-DamOSa2h97499sP4"> </a>
 <br>I got to have hands on experience on:
 <li> INTRO TO PROGRAMMING IN PYTHON
 <li> INTRODUCTION TO Selenium for Web automation
