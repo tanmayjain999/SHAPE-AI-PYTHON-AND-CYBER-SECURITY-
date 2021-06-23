@@ -7,12 +7,12 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <br><br>Here's the link for you to watch the sessions as well<br>
 <a href="https://www.youtube.com/watch?v=yZeJTQXvA-I&list=PL7zl8TDRnbuljbDX-DamOSa2h97499sP4"> 
 <br>I got to have hands on experience on:
-• INTRO TO PROGRAMMING IN PYTHON
-• INTRODUCTION TO Selenium for Web automation
-• FOUNDATIONAL KNOWLEDGE IN SQL injection
-• Solving Capture the flag on hacker101
-• FOUNDATIONAL KNOWLEDGE IN Vulnerability Assessment and Penetration testing [VAPT] 
-• HANDS ON PROJECT
+<li> INTRO TO PROGRAMMING IN PYTHON
+<li> INTRODUCTION TO Selenium for Web automation
+<li>FOUNDATIONAL KNOWLEDGE IN SQL injection
+<li>Solving Capture the flag on hacker101
+<li>FOUNDATIONAL KNOWLEDGE IN Vulnerability Assessment and Penetration testing [VAPT] 
+<li> HANDS ON PROJECT
 <br>during these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
